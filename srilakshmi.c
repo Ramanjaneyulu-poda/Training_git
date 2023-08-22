@@ -18,4 +18,7 @@ int main()
 			small=arr[i];
 	}
 	printf("%d is large\n %d is small\n",large,small);
+
 }
+
+added some thing
