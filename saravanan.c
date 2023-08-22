@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-	printf("saroooooo ");
+	printf("Hi this is my 1st program ");
 	return 0;
 }
